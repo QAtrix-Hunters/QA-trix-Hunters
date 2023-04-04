@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/qualityshunters" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/qualityshunters"/>
 </p>
 
+<!--
 <br><br>
 <div align="center">
   <a href="https://github.com/Qualitys-Hunters">
@@ -17,7 +18,7 @@
 </details>
 🐜🐛🐞 ... ☕🤓💻🔎 ... 🐜🐛🐞<br>
 </div> 
-
+-->
 <!--
 **qualityshunters/Qualitys-Hunters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
